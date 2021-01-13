@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am a computer engineer working as Data Scientist for cartography (maps) team of Gojek.
+I am on a pursuit of being jack of everything, hence on my blog and social profiles, you will find me talking about new and random stuff every now and then.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mannu1200@gmail.com](mailto:mannu1200@gmail.com)
